@@ -1,0 +1,23 @@
+.dogbox{
+  border: 2px solid green;
+  margin: 12px;
+  padding: 2px;
+  background-color: orange;
+
+}
+
+.dogbox img{
+  float:left;
+}
+
+.dogbox h2{
+  margin-left: 25%;
+}
+.dogbox p {
+  margin-left: 30%;
+}
+
+h1{
+text-align: center;
+
+}
